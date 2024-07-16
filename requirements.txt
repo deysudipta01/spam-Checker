@@ -91,7 +91,7 @@ importlib_metadata==7.1.0
 ipykernel==6.22.0
 ipython==8.12.0
 ipython-genutils==0.2.0
-ipywidgets==8.0.6
+ipywidgets
 iso8601==2.1.0
 isoduration==20.11.0
 itsdangerous==2.1.2
