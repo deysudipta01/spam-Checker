@@ -182,6 +182,7 @@ pyspnego
 python-box
 
 scikit-learn==1.2.2
+SQLAlchemy
 
 
 
